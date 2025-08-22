@@ -49,8 +49,11 @@ Docker & Docker Compose installed
 AWS IAM Role or Credentials with appropriate permissions (EC2, VPC, Subnets)
 
 Clone & Build
+
 git clone https://github.com/ajaykumar426344/terraform-ui.git
+
 cd terraform-ui
+
 docker compose up --build -d
 
 Access the App
